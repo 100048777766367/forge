@@ -2,16 +2,16 @@
     "contract": "bodhi.contract.v1",
     "identity": "100048777766367/forge",
     "role": "DECENTRALIZED_COMPUTE_FOUNDRY",
-    "epoch": 7,
-    "timestamp": 1792284831,
+    "epoch": 8,
+    "timestamp": 1792285412,
     "hardware": {
         "cpu_cores": 4,
         "os": "Linux",
         "architecture": "x86_64",
-        "estimated_mflops": 10.56,
+        "estimated_mflops": 10.42,
         "concurrency_limit": 8
     },
     "flops_delivered": 16000,
-    "proof_of_compute_cid": "2e7ba71e105d0c699878f3d2a3f9999baf495d8ea6127fbe00cd22d3a132e3a7",
+    "proof_of_compute_cid": "cf4998e003d849a1189d39fbf3fb625c4635f1038ceb9399575cf9d9ea511303",
     "status": "ready_for_depin_compute_settlement"
 }
