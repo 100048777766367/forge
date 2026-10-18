@@ -1,0 +1,19 @@
+{
+  "contract_id": "bodhi.contract.v1",
+  "genesis_root": "100048777766367/contract",
+  "derived_node": "100048777766367/forge",
+  "role": "DECENTRALIZED_COMPUTE_FOUNDRY",
+  "rules": {
+    "zero_pii": true,
+    "proof_of_compute_required": true,
+    "max_cpu_usage_threshold": 0.90,
+    "auto_apoptosis_on_syntax_error": true
+  },
+  "required_packet_fields": [
+    "contract",
+    "identity",
+    "epoch",
+    "flops_delivered",
+    "proof_of_compute_cid"
+  ]
+}
