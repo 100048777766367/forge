@@ -1,6 +1,6 @@
 {
-    "total_flops_mined": 752000,
+    "total_flops_mined": 768000,
     "client_allocations": {
-        "100048777766367/vault": 752000
+        "100048777766367/vault": 768000
     }
 }
