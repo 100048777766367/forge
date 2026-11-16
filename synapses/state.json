@@ -1,7 +1,7 @@
 {
-    "generation_epoch": 104,
-    "last_t": 1794776389,
+    "generation_epoch": 105,
+    "last_t": 1794809829,
     "flops_delivered": 16000,
-    "proof_cid": "2b033c30c75c2505f3e08d5bc216a2a74a47600ede1206afe77fc981d7989e1b",
+    "proof_cid": "28e064bed8d5f2299fbbf668a5045efc36b1f783d017de814d2db5c60e35ebd6",
     "status": "compute_dispatched"
 }
